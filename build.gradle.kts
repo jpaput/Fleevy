@@ -20,7 +20,7 @@ repositories {
 }
 
 springBoot {
-    mainClass = "com.skypaps.fleevy.FleevyApplication.kt"
+    mainClass = "com.skypaps.fleevy.FleevyApplication"
 }
 
 dependencies {
@@ -47,4 +47,9 @@ tasks.withType<KotlinCompile> {
 
 tasks.withType<Test> {
     useJUnitPlatform()
+}
+
+
+tasks.withType<org.springframework.boot.gradle.tasks.bundling.BootJar> {
+    mainClass = "com.skypaps.fleevy.FleevyApplication"
 }
