@@ -1,74 +1,38 @@
-2023-09-12T00:05:58.232+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s77ms).
-2023-09-12T00:23:32.717+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m34s485ms).
-2023-09-12T00:40:48.336+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m45s619ms).
-2023-09-12T00:57:42.889+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s547ms).
-2023-09-12T01:13:36.953+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m24s50ms).
-2023-09-12T01:29:25.025+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m48s72ms).
-2023-09-12T01:47:01.131+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s96ms).
-2023-09-12T02:00:17.723+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m16s592ms).
-2023-09-12T02:18:01.044+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m13s277ms).
-2023-09-12T02:34:06.395+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m5s351ms).
-2023-09-12T02:51:55.164+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m18s759ms).
-2023-09-12T03:08:16.760+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s585ms).
-2023-09-12T03:25:39.844+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m23s84ms).
-2023-09-12T03:42:25.308+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m15s460ms).
-2023-09-12T03:59:40.747+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m45s428ms).
-2023-09-12T04:15:32.366+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m51s619ms).
-2023-09-12T04:32:27.142+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s748ms).
-2023-09-12T04:49:29.791+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m2s649ms).
-2023-09-12T05:07:25.964+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s162ms).
-2023-09-12T05:17:21.791+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m25s814ms).
-2023-09-12T05:32:57.845+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m36s54ms).
-2023-09-12T05:49:31.326+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m3s465ms).
-2023-09-12T06:07:43.541+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m42s206ms).
-2023-09-12T06:23:28.302+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m44s761ms).
-2023-09-12T06:39:38.204+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m39s913ms).
-2023-09-12T06:56:45.754+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m7s549ms).
-2023-09-12T07:12:54.661+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m38s898ms).
-2023-09-12T07:29:34.603+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m9s933ms).
-2023-09-12T07:46:03.758+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m29s156ms).
-2023-09-12T08:00:20.955+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m47s187ms).
-2023-09-12T08:18:21.583+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m30s617ms).
-2023-09-12T08:34:30.175+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m8s592ms).
-2023-09-12T08:51:37.119+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s958ms).
-2023-09-12T09:03:03.868+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m26s749ms).
-2023-09-12T12:10:58.978+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m53s696ms).
-2023-09-12T12:28:01.049+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m2s72ms).
-2023-09-12T12:44:36.604+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m5s572ms).
-2023-09-12T13:01:35.053+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m28s437ms).
-2023-09-12T13:17:44.249+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m9s196ms).
-2023-09-12T13:35:04.004+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s761ms).
-2023-09-12T13:52:28.812+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m54s798ms).
-2023-09-12T14:00:26.998+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m28s169ms).
-2023-09-12T14:05:16.599+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s600ms).
-2023-09-12T14:30:27.494+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s31ms).
-2023-09-12T14:35:59.907+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m2s399ms).
-2023-09-12T14:51:12.943+02:00  WARN 2962 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m42s912ms).
-2023-09-12T15:31:15.907+02:00  INFO 2962 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2023-09-12T15:31:15.919+02:00  INFO 2962 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2023-09-12T15:31:15.921+02:00  INFO 2962 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2023-09-12T15:31:23.771+02:00  INFO 13446 --- [main] com.skypaps.fleevy.FleevyApplicationKt   : Starting FleevyApplicationKt using Java 19.0.2 with PID 13446 (/Users/resilience/IdeaProjects/Fleevy/build/classes/kotlin/main started by resilience in /Users/resilience/IdeaProjects/Fleevy)
-2023-09-12T15:31:23.773+02:00  INFO 13446 --- [main] com.skypaps.fleevy.FleevyApplicationKt   : The following 1 profile is active: "dev"
-2023-09-12T15:31:24.251+02:00  INFO 13446 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2023-09-12T15:31:24.279+02:00  INFO 13446 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24 ms. Found 1 JPA repository interfaces.
-2023-09-12T15:31:24.569+02:00  INFO 13446 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9091 (http)
-2023-09-12T15:31:24.574+02:00  INFO 13446 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2023-09-12T15:31:24.574+02:00  INFO 13446 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.12]
-2023-09-12T15:31:24.616+02:00  INFO 13446 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2023-09-12T15:31:24.616+02:00  INFO 13446 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 816 ms
-2023-09-12T15:31:24.693+02:00  INFO 13446 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2023-09-12T15:31:24.720+02:00  INFO 13446 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.2.7.Final
-2023-09-12T15:31:24.721+02:00  INFO 13446 --- [main] org.hibernate.cfg.Environment            : HHH000406: Using bytecode reflection optimizer
-2023-09-12T15:31:24.784+02:00  INFO 13446 --- [main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
-2023-09-12T15:31:24.866+02:00  INFO 13446 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2023-09-12T15:31:24.874+02:00  INFO 13446 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2023-09-12T15:31:25.043+02:00  INFO 13446 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2a0963be
-2023-09-12T15:31:25.043+02:00  INFO 13446 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2023-09-12T15:31:25.163+02:00  INFO 13446 --- [main] o.h.b.i.BytecodeProviderInitiator        : HHH000021: Bytecode provider name : bytebuddy
-2023-09-12T15:31:25.441+02:00  INFO 13446 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
-2023-09-12T15:31:25.808+02:00  WARN 13446 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
-2023-09-12T15:31:25.808+02:00  WARN 13446 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_user_email" of relation "fleevy_user" does not exist, skipping
-2023-09-12T15:31:25.834+02:00  INFO 13446 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2023-09-12T15:31:26.108+02:00  WARN 13446 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2023-09-12T15:31:26.267+02:00  INFO 13446 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9091 (http) with context path ''
-2023-09-12T15:31:26.271+02:00  INFO 13446 --- [main] com.skypaps.fleevy.FleevyApplicationKt   : Started FleevyApplicationKt in 2.808 seconds (process running for 3.464)
+2023-09-13T00:09:47.339+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m58s572ms).
+2023-09-13T00:26:06.885+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m49s530ms).
+2023-09-13T00:42:47.042+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m10s155ms).
+2023-09-13T00:59:22.773+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m35s731ms).
+2023-09-13T01:16:33.977+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m41s197ms).
+2023-09-13T01:24:09.579+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m5s586ms).
+2023-09-13T01:41:01.351+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m51s772ms).
+2023-09-13T01:58:24.304+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m52s942ms).
+2023-09-13T02:14:34.438+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m10s134ms).
+2023-09-13T02:17:16.413+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m11s967ms).
+2023-09-13T02:35:02.940+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m16s420ms).
+2023-09-13T02:52:41.650+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m38s711ms).
+2023-09-13T03:11:03.839+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m52s175ms).
+2023-09-13T03:28:30.368+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m56s521ms).
+2023-09-13T03:44:32.062+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m1s694ms).
+2023-09-13T04:02:06.668+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m4s576ms).
+2023-09-13T04:18:04.891+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m58s223ms).
+2023-09-13T04:35:50.908+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m15s968ms).
+2023-09-13T04:52:26.091+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m5s162ms).
+2023-09-13T05:08:37.850+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s759ms).
+2023-09-13T05:17:32.949+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m25s96ms).
+2023-09-13T05:35:34.920+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m1s971ms).
+2023-09-13T05:53:38.624+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m33s701ms).
+2023-09-13T06:09:44.120+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m35s493ms).
+2023-09-13T06:25:41.201+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m27s100ms).
+2023-09-13T06:42:24.157+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m42s956ms).
+2023-09-13T06:58:37.852+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s689ms).
+2023-09-13T07:15:03.543+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m25s691ms).
+2023-09-13T07:32:35.014+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m1s465ms).
+2023-09-13T07:50:09.695+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m4s679ms).
+2023-09-13T08:00:08.658+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m58s963ms).
+2023-09-13T08:17:52.124+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m13s460ms).
+2023-09-13T08:33:51.282+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s134ms).
+2023-09-13T08:49:30.958+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m39s677ms).
+2023-09-13T09:01:55.940+02:00  WARN 13446 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m54s971ms).
+2023-09-13T10:52:17.222+02:00  INFO 13446 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-13T10:52:17.228+02:00  INFO 13446 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-09-13T10:52:17.231+02:00  INFO 13446 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
