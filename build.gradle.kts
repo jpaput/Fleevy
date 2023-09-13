@@ -20,7 +20,7 @@ repositories {
 }
 
 springBoot {
-    mainClass = "com.skypaps.fleevy.FleevyApplication"
+    mainClass = "com.skypaps.fleevy.FleevyApplication.kt"
 }
 
 dependencies {
