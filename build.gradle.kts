@@ -19,6 +19,10 @@ repositories {
     mavenCentral()
 }
 
+springBoot {
+    mainClass = "com.skypaps.fleevy.FleevyApplication"
+}
+
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     implementation("org.springframework.boot:spring-boot-starter-validation")
